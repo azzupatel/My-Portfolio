@@ -16,7 +16,7 @@ export const skills = [
     "Digital Marketer",
 ];
 
-export const resume = "./Abdulaziz_patel_resume"; //resume is working fine now
+export const resume = "./Abdulaziz_Patel_Resume"; //resume is working fine now
 export const contactFormsparkId = ''
 
 
